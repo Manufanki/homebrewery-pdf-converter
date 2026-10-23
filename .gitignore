@@ -1,0 +1,12 @@
+.venv/
+.venv/
+.vscode/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+.env
+markdown/
+pdf/
+homebrewery/
+markdown/.cache/
